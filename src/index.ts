@@ -1,7 +1,1 @@
-export * from './random';
-
-declare global {
-  interface Array<T> {
-    random(): T;
-  }
-}
+export * from './isPalindrome';
