@@ -1,6 +1,6 @@
 {
-  "name": "@ctux/lib",
-  "version": "1.0.4",
+  "name": "mbf-leetcode",
+  "version": "1.0.0",
   "private": false,
   "type": "module",
   "files": ["dist"],
